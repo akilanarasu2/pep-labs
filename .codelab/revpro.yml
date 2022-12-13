@@ -15,7 +15,7 @@
     title: akilanarasu2/pep-gitpod-workspace - main
     ref: main
     refType: branch
-    revision: e9b17497349b02ea6b457cb7416412e3fd00dc30
+    revision: 70910c3ecd6d5fb2ef42ba56a71498d73ef7770a
     repository:
       cloneUrl: https://github.com/akilanarasu2/pep-gitpod-workspace.git
       host: github.com
@@ -33,8 +33,8 @@
     checkoutLocation: pep-gitpod-workspace
     upstreamRemoteURI: https://github.com/revature-curriculum/pep-gitpod-workspace.git
   :gitpod_workspace:
-    :workspace_id: akilanarasu-pepgitpodwo-6ga132h0otw
-    :workspace_url: https://akilanarasu-pepgitpodwo-6ga132h0otw.ws-us78.gitpod.io
+    :workspace_id: akilanarasu-pepgitpodwo-y1ujovlof03
+    :workspace_url: https://akilanarasu-pepgitpodwo-y1ujovlof03.ws-us79.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: akilanarasu2@gmail.com
     :git_user_name: akilanarasu2
